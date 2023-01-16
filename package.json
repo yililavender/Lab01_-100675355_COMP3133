@@ -1,0 +1,24 @@
+{
+  "name": "lab01_-100675355_comp3133",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yililavender/Lab01_-100675355_COMP3133.git"
+  },
+  "keywords": [],
+  "author": "hui qiu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yililavender/Lab01_-100675355_COMP3133/issues"
+  },
+  "homepage": "https://github.com/yililavender/Lab01_-100675355_COMP3133#readme",
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  }
+}
