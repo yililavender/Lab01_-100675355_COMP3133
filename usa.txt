@@ -1,0 +1,13 @@
+country, year, population
+1,United States,1952,157553000
+1,United States,1957,171984000
+1,United States,1962,186538000
+1,United States,1967,198712000
+1,United States,1972,209896000
+1,United States,1977,220239000
+1,United States,1982,232187835
+1,United States,1987,242803533
+1,United States,1992,256894189
+1,United States,1997,272911760
+1,United States,2002,287675526
+1,United States,2007,301139947
